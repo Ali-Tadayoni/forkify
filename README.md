@@ -1,8 +1,8 @@
-# Reacr Pizza Co.
+# Forkify
 
 A great recipe app where users can search and see recipes, change serving ,bookmark a recipe , upload their own recipes
 
-## [Live Demo](https://your-portfolio-link.com)
+## [Live Demo](https://forkify-smoky.vercel.app/) (You need VPN 😕)
 
 ## Features:
 
