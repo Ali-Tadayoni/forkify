@@ -2,7 +2,7 @@
 
 A great recipe app where users can search and see recipes, change serving ,bookmark a recipe , upload their own recipes
 
-## [Live Demo](https://forkify-smoky.vercel.app/) (You need VPN 😕)
+## [Live Demo](https://forkify.alitadayoni.com)
 
 ## Features:
 
